@@ -31,7 +31,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Employed Monte Carlo algorithm as it is suitable for risk assessment, risk management and decision analysis.
 
   <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
-  <img src = "images/portfolio3.png" width="600" height="275">
+  <img src = "images/portfolio.png" width="600" height="275">
   </a>
 
 
