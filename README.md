@@ -41,7 +41,7 @@ Performed customer classification to subscribe for the term deposit for Targeted
 * Implemented Feature Selection using Extra Tree Classifier and check p-value statistic test for every feature.
 * Converted imbalanced dataset (9 : 1) into balanced dataset (1 : 1) by executing oversampling using SMOTE.
 
-  <a href="https://github.com/VIDIT-9/Credit-Scorecard-Modelling">
+  <a href="https://github.com/VIDIT-9/Customer-Behaviour-Classification-in-Banking">
   <img src = "images/classification.png" width="600" height="275">
   </a>
 
