@@ -19,7 +19,7 @@ Build an in-house risk model on behalf of a bank to make lending decisions for s
 * Predicted likelihood of loans using Logistic Regression Classifier and calculated Credit Score Metrics using Decile method.
 
   <a href="https://github.com/VIDIT-9/Credit-Scorecard-Modelling">
-  <img src = "images/credit.png" width="600" height="275">
+  <img src = "images/credit score.png" width="500" height="250">
   </a>
 
 
@@ -42,7 +42,7 @@ Performed customer classification to subscribe for the term deposit for Targeted
 * Converted imbalanced dataset (9 : 1) into balanced dataset (1 : 1) by executing oversampling using SMOTE.
 
   <a href="https://github.com/VIDIT-9/Customer-Behaviour-Classification-in-Banking">
-  <img src = "images/customer.png" width="500" height="200">
+  <img src = "images/customer.png" width="450" height="200">
   </a>
 
 
