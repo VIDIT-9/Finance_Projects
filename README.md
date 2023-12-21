@@ -45,4 +45,31 @@ Performed customer classification to subscribe for the term deposit for Targeted
   <img src = "images/classification.png" width="600" height="275">
   </a>
 
+
+
+
+## Project 5: [Data Analysis on IPL](https://github.com/VIDIT-9/Sparks-foundation-internship)
+Conducted Data Analysis on IPL matches to derive actionable insights and trends, contributing to strategic decision-making
+* Performed Exploratory Data Analysis on Indian Premier League dataset containing 1.8 lakh records of each delivery.
+* Identified out Most Valuable Players and Teams a company should endorse for their products to increase their sales.
+* Identified key factors like toss results and fielding potential should be considered as they had impacts on match results
+  
+  
+  <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes">
+  <img src = "images/IPL Dashboard.png" width="600" height="300">
+  </a>
+
+
+
+
+## Project 6: [Movies Recommendation System](https://github.com/VIDIT-9/Recommender-System-TMDB-dataset)
+Developed content based recommendation system that provides movie suggestions based on user preferences.
+* Merged two datasets of 4800 movies and dug out suitable features for our system and performed Data Preprocessing.
+* Combined all important features (genres/keywords/actors/directors) into one column and converted them into vectors.
+* Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
+  
+  <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
+    <img src = "images/mrs.png" width="600" height="250">
+  </a>
+
   
