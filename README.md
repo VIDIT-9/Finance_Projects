@@ -11,6 +11,7 @@ Conducted Data Analysis on financial complaints dataset to identify the areas fo
     <img src = "images/Finance Dashboard.png" width="600" height="300">
   </a>
 
+  <p>&nbsp;</p>
 
 
 ## Project 2: [Credit Scorecard Modelling](https://github.com/VIDIT-9/Credit-Scorecard-Modelling)
@@ -22,7 +23,7 @@ Build an in-house risk model on behalf of a bank to make lending decisions for s
   <img src = "images/credit score.png" width="350" height="150">
   </a>
 
-
+  <p>&nbsp;</p>
 
 ## Project 3: [Portfolio Optimization](https://github.com/VIDIT-9/Portfolio-Optimization)
 Implemented a algorithm to find the optimal allocation of assets that aims to maximize returns while minimizing risk.
@@ -34,6 +35,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
   <img src = "images/portfolio.png" width="600" height="275">
   </a>
 
+  <p>&nbsp;</p>
 
 
 ## Project 4: [Customer Classification in Banking](https://github.com/VIDIT-9/Customer-Behaviour-Classification-in-Banking)
