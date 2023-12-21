@@ -47,7 +47,7 @@ Performed customer classification to subscribe for the term deposit for Targeted
   <img src = "images/customer.png" width="350" height="150">
   </a>
 
-
+  <p>&nbsp;</p>
 
 
 ## Project 5: [Data Analysis on IPL](https://github.com/VIDIT-9/Sparks-foundation-internship)
@@ -60,9 +60,8 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes">
   <img src = "images/IPL Dashboard.png" width="600" height="300">
   </a>
-
-
-
+  
+  <p>&nbsp;</p>
 
 ## Project 6: [Movies Recommendation System](https://github.com/VIDIT-9/Recommender-System-TMDB-dataset)
 Developed content based recommendation system that provides movie suggestions based on user preferences.
