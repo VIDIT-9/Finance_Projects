@@ -42,7 +42,7 @@ Performed customer classification to subscribe for the term deposit for Targeted
 * Converted imbalanced dataset (9 : 1) into balanced dataset (1 : 1) by executing oversampling using SMOTE.
 
   <a href="https://github.com/VIDIT-9/Customer-Behaviour-Classification-in-Banking">
-  <img src = "images/customer.png" width="600" height="275">
+  <img src = "images/customer.png" width="500" height="225">
   </a>
 
 
