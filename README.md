@@ -38,8 +38,8 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 
 ## Project 4: [Customer Classification in Banking](https://github.com/VIDIT-9/Customer-Behaviour-Classification-in-Banking)
 Performed customer classification to subscribe for the term deposit for Targeted Marketing and Improved Conversion Rates.
-* Performed 
-* Predicted
+* Implemented Feature Selection using Extra Tree Classifier and check p-value statistic test for every feature.
+* Converted imbalanced dataset (9 : 1) into balanced dataset (1 : 1) by executing oversampling using SMOTE.
 
   <a href="https://github.com/VIDIT-9/Credit-Scorecard-Modelling">
   <img src = "images/classification.png" width="600" height="275">
