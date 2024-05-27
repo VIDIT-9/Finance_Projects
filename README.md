@@ -3,10 +3,26 @@
 <p>&nbsp;</p>
 
 
-## Project 1: [Credit Scorecard Modelling](https://github.com/VIDIT-9/Credit-Scorecard-Modelling)
-Build an in-house risk model on behalf of a bank to make lending decisions for subprime mortgages to maximize profitability .
-* Performed Chi-Square binning for features and computed Information Value (IV) and Weight of Evidence (WoE).
-* Predicted likelihood of loans using Logistic Regression Classifier and calculated Credit Score Metrics using Decile method.
+## Project 1: [Portfolio Optimization](https://github.com/VIDIT-9/Portfolio-Optimization)
+Implemented a algorithm to find the optimal allocation of assets that aims to maximize returns while minimizing risk.
+* Curated 10 low-correlated stocks across various sectors to enhance portfolio diversity and reduce risk.
+* Assessed the percentage of free floated stocks to ensure adequate liquidity and market representation.
+* Conducted Monte Carlo simulations on 5 year data and calculated Sharpe ratio to identify optimal portfolio configurations.
+* Visualized risk-return tradeoff profile through efficient frontier, revealing a best Sharpe ratio of 1.62 and 17.8% return.
+
+  <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
+  <img src = "images/portfolio.png" width="600" height="275">
+  </a>
+
+  <p>&nbsp;</p>
+
+
+## Project 2: [Credit Scorecard Modelling](https://github.com/VIDIT-9/Credit-Scorecard-Modelling)
+Build an in-house risk model on behalf of a bank to make lending decisions for subprime mortgages to maximize profitability.
+* Implemented a Random Forest model to predict borrower’s probability of default (PD) attaining an AUC score of 0.95.
+* Designed a credit scorecard that assigns scores based on 29 key metrics, effectively evaluating customer creditworthiness.
+* Classified credit scores into 10 distinct levels, enabling easy interpretation and decision-making for lending officers.
+* Computed cumulative loss and coverage metrics, determining a threshold score of 550 to maximize profitability.
 
   <a href="https://github.com/VIDIT-9/Credit-Scorecard-Modelling">
   <img src = "images/credit score.png" width="350" height="150">
@@ -16,9 +32,10 @@ Build an in-house risk model on behalf of a bank to make lending decisions for s
 
 ## Project 2: [Portfolio Optimization](https://github.com/VIDIT-9/Portfolio-Optimization)
 Implemented a algorithm to find the optimal allocation of assets that aims to maximize returns while minimizing risk.
-* Gathered real-time data of multiple stocks prices starting from FY'22 using python library to access Yahoo Finance API.
-* Calculated and compared Risk metrics including Alpha, Beta, Treynor Ratio, Sharpe Ratio for each stock and portfolio.
-* Employed Monte-Carlo algorithm for portfolio optimization as it is suitable for risk assessment, risk management and decision analysis.
+* Curated 10 low-correlated stocks across various sectors to enhance portfolio diversity and reduce risk.
+* Assessed the percentage of free floated stocks to ensure adequate liquidity and market representation.
+* Conducted Monte Carlo simulations on 5 year data and calculated Sharpe ratio to identify optimal portfolio configurations.
+* Visualized risk-return tradeoff profile through efficient frontier, revealing a best Sharpe ratio of 1.62 and 17.8% return.
 
   <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
   <img src = "images/portfolio.png" width="600" height="275">
