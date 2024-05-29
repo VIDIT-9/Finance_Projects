@@ -30,19 +30,6 @@ Build an in-house risk model on behalf of a bank to make lending decisions for s
 
   <p>&nbsp;</p>
 
-## Project 2: [Portfolio Optimization](https://github.com/VIDIT-9/Portfolio-Optimization)
-Implemented a algorithm to find the optimal allocation of assets that aims to maximize returns while minimizing risk.
-* Curated 10 low-correlated stocks across various sectors to enhance portfolio diversity and reduce risk.
-* Assessed the percentage of free floated stocks to ensure adequate liquidity and market representation.
-* Conducted Monte Carlo simulations on 5 year data and calculated Sharpe ratio to identify optimal portfolio configurations.
-* Visualized risk-return tradeoff profile through efficient frontier, revealing a best Sharpe ratio of 1.62 and 17.8% return.
-
-  <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
-  <img src = "images/portfolio.png" width="600" height="275">
-  </a>
-
-  <p>&nbsp;</p>
-
 ## Project 3: [Financial Complaints Analysis](https://github.com/VIDIT-9/Financial-Complaints-Analysis)
 Conducted Data Analysis on financial complaints dataset to identify the areas for improvement and aims to improve customer experience.
 * Study a dataset containing 6 lakh+ complaints received by various finance companies over 5 Years (from Dec-2011 to Nov-2016).
