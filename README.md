@@ -10,7 +10,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Conducted Monte Carlo simulations on 5 year data and calculated Sharpe ratio to identify optimal portfolio configurations.
 * Visualized risk-return tradeoff profile through efficient frontier, revealing a best Sharpe ratio of 1.62 and 17.8% return.
 
-  <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
+  <a href="https://github.com/VIDIT-9/Portfolio-Optimization">
   <img src = "images/portfolio.png" width="600" height="275">
   </a>
 
